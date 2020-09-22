@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="app_name">Lab1_Ex2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragment </string>
+    <string name="lifeCycle">Démonstration des méthodes du cycle de vie </string>
+    <string name="AIAct">AIActivité</string>
+    <string name="VRAct">VRActivité</string>
+
+    <string name="onStart_t">onStart Exécuté</string>
+    <string name="onRestart_t">onRestart Exécuté</string>
+    <string name="onResume_t">onResume Exécuté</string>
+    <string name="onPause_t">onPause Exécuté</string>
+    <string name="onStop_t">onStop Exécuté</string>
+    <string name="onDestroy_t">onDestroy Exécuté</string>
+    <string name="onCreate_t">onCreate Exécuté</string>
+
+</resources>
